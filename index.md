@@ -1,9 +1,5 @@
-
----
-layout: default
-title-seo: test custom title
-description-seo: test custom desc
-...
+title: test custom title
+description: test custom desc
 
 ## Miscellaneous Motifs
 
