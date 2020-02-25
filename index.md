@@ -1,5 +1,5 @@
-title: test custom title
-description: test custom desc
+<title> test custom title</title>
+<description> test custom desc</description>
 
 ## Miscellaneous Motifs
 
