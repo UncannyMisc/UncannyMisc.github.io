@@ -1,3 +1,9 @@
+
+---
+layout: default
+title-seo: test custom title
+description-seo: test custom desc
+---
 ## Miscellaneous Motifs
 
 You can use the [editor on GitHub](https://github.com/UncannyMisc/UncannyMisc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
