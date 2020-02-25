@@ -1,5 +1,8 @@
-<title> test custom title</title>
-<description> test custom desc</description>
+---
+layout: default
+title: Another page
+description: This is just another page
+---
 
 ## Miscellaneous Motifs
 
