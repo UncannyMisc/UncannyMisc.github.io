@@ -1,7 +1,7 @@
 ### Welcome!
 My name is Joshua Schneiders, this site will serve as my Portfolio and place for my Articles/Post-mortems until I can put some time into creating Publisher pages and zip them for a self hosted site as Google sites classic will not remain active at some point in the future.
 
-use the [editor on GitHub](https://github.com/UncannyMisc/UncannyMisc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+use the [editor on GitHub](https://github.com/UncannyMisc/UncannyMisc.github.io/edit/master/README.md) to maintain and preview content for your website in Markdown files.
 
 When you commit to this repository, GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
