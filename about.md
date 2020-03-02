@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-###About Me - An Uncanny Notion
+### About Me - An Uncanny Notion
 
 I have loved programming since I first discovered it back in primary school, my school had just started to include programming classes in scratch and together with my friends we ran with the possibilities. We wrote down every idea and every possibility for both our current projects and future things we didn’t know how to implement at the time.
 
