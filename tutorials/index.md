@@ -2,7 +2,6 @@
 is_main: True
 ---
 ### Tutorials
-My name is Joshua Schneiders, this site will serve as my Portfolio and place for my Articles/Post-mortems until I can put some time into creating Publisher pages and zip them for a self hosted site as Google sites classic will not remain active at some point in the future.
 
 Use the [editor on GitHub](https://github.com/UncannyMisc/UncannyMisc.github.io/edit/master/README.md) to maintain and preview content for your website in Markdown files.
 
