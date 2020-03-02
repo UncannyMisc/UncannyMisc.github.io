@@ -1,43 +1,14 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: About Me
 ---
 
-## Miscellaneous Motifs
 
-You can use the [editor on GitHub](https://github.com/UncannyMisc/UncannyMisc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###About Me - An Uncanny Notion
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have loved programming since I first discovered it back in primary school, my school had just started to include programming classes in scratch and together with my friends we ran with the possibilities. We wrote down every idea and every possibility for both our current projects and future things we didn’t know how to implement at the time.
 
-### Markdown
+The story behind this sites sub heading, the annotation to this page and the clay figurine I've taken a liking to, is from much of how I see everything. I have a liking for the Uncanny in many forms, hence Miscellaneous Motifs, in everyday life and from different points of view. In most cases I like the uncanny that is "just right" in its own way rather than completely off looking. It is a testament to how much I love the game design process and how things come to be the way they are, I love the look of some early iterations of a games visual, game play and story style and how they could be a popular game in their own right. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UncannyMisc/UncannyMisc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My enthusiasm for what I love often leaves a mark on those around me.  Every school I have been to I have made a change, be it from a long-lasting computer club or introducing new technologies into the curriculum such as 3D printers or virtual reality headsets.
+In my spare time I work on improving my knowledge and skills in my areas of interest, I document anything notable I think of for future projects. My interests themselves are fairly broad ranging from all the sciences to systems and circuits with a dose of art and psychology. 
