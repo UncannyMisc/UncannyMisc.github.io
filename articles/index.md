@@ -1,5 +1,6 @@
 ---
 is_main: True
+is_guide: True
 ---
 ### Articles
 
