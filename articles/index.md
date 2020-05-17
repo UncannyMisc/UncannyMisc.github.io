@@ -4,9 +4,7 @@ is_guide: True
 ---
 ### Articles
 
-Use the [editor on GitHub](https://github.com/UncannyMisc/UncannyMisc.github.io/edit/master/README.md) to maintain and preview content for your website in Markdown files.
-
-When you commit to this repository, GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will index article pages I post.
 
 ### Markdown
 
