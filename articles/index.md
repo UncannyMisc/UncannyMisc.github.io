@@ -37,19 +37,25 @@ Your Pages site uses the layout and styles from the Jekyll theme you have select
 
 Having trouble with Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<div style = "width: -webkit-fill-available;">
+<div style = "width: -webkit-fill-available; line-height:0;">
   {% assign startrow = true %}
   {% for post in site.posts %}
     <div style = "width: 100%; float:left;">
 		{% if startrow == true%}
-			<div style = "width: 70%; float:left;" href="{{ post.url }}" title = "{{ post.title }}">
-				<img style = "object-fit: cover; width: 100%; height: 100px;" src = "{{ post.post_image }}">
-			</div>
+			<a style = "width: 100%; float:left;" href="{{ post.url }}" title = "{{ post.title }}">
+				<img style = "width: 70%;object-fit: cover; width: 100%; height: 120px;" src = "{{ post.post_image }}">
+			</a>
+			<h1 style = "width: 100%; float:right;">
+				{{ post.title }}
+			</h1>
 			{% assign startrow = false %}
 		{% else %}
-			<div style = "width: 70%; float:right;" href="{{ post.url }}" title = "{{ post.title }}">
-				<img style = "object-fit: cover; width: 100%; height: 100px;" src = "{{ post.post_image }}">
-			</div>
+			<a style = "width: 100%; float:right;" href="{{ post.url }}" title = "{{ post.title }}">
+				<img style = "width: 70%;object-fit: cover; width: 100%; height: 120px;" src = "{{ post.post_image }}">
+			</a>
+			<h1 style = "width: 100%; float:left;">
+				{{ post.title }}
+			</h1>
 			{% assign startrow = true %}
 		{% endif %}
     </div>
