@@ -40,7 +40,7 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">[{{ post.title }}]({{post.post_image}})</a>
     </li>
   {% endfor %}
 </ul>
