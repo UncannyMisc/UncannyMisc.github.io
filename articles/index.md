@@ -40,7 +40,7 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
 <div style = "width: -webkit-fill-available;">
   {% assign startrow = true %}
   {% for post in site.posts %}
-    <div style = "width = 100%; float:left;">
+    <div style = "width: 100%; float:left;">
 		{% if startrow == true%}
 			<div style = "width: 70%; float:left;" href="{{ post.url }}" title = "{{ post.title }}">
 				<img style = "object-fit: cover; width: 100%; height: 100px;" src = "{{ post.post_image }}">
