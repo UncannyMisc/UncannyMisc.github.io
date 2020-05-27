@@ -42,12 +42,12 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
   {% for post in site.posts %}
     <div style = "width = 100%; float:left;">
 		{% if startrow == true%}
-			<div style = "width = 70%; float:left;" href="{{ post.url }}" title = "{{ post.title }}">
+			<div style = "width: 70%; float:left;" href="{{ post.url }}" title = "{{ post.title }}">
 				<img style = "object-fit: cover; width: 100%; height: 100px;" src = "{{ post.post_image }}">
 			</div>
 			{% assign startrow = false %}
 		{% else %}
-			<div style = "width = 70%; float:right;" href="{{ post.url }}" title = "{{ post.title }}">
+			<div style = "width: 70%; float:right;" href="{{ post.url }}" title = "{{ post.title }}">
 				<img style = "object-fit: cover; width: 100%; height: 100px;" src = "{{ post.post_image }}">
 			</div>
 			{% assign startrow = true %}
