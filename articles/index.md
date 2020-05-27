@@ -42,21 +42,21 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
   {% for post in site.posts %}
     <div style = "width: 100%; float:left;">
 		{% if startrow == true%}
-			<div style = "width: 100%; float:left;" href="{{ post.url }}" title = "{{ post.title }}">
-				<a>
+			<div style = "width: 100%; float:left;">
+				<a href="{{ post.url }}" title = "{{ post.title }}">
 					<img style = "width: 70%;object-fit: cover; height: 120px;" src = "{{ post.post_image }}">
 				</a>
-				<h1 style = "width: 30%; float:right;">
+				<h1 style = "width: 30%; float:right; text-align: center; line-height: normal;">
 					{{ post.title }}
 				</h1>
 			</div>
 			{% assign startrow = false %}
 		{% else %}
-			<div style = "width: 100%; float:right;" href="{{ post.url }}" title = "{{ post.title }}">
-				<a>
+			<div style = "width: 100%; float:right;" >
+				<a href="{{ post.url }}" title = "{{ post.title }}">
 					<img style = "width: 70%;object-fit: cover; height: 120px;" src = "{{ post.post_image }}">
 				</a>
-				<h1 style = "width: 30%; float:left;">
+				<h1 style = "width: 30%; float:left; text-align: center; line-height: normal;">
 					{{ post.title }}
 				</h1>
 			</div>
