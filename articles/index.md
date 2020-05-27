@@ -38,11 +38,23 @@ Your Pages site uses the layout and styles from the Jekyll theme you have select
 Having trouble with Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <ul>
+  {% assign startrow = true %}
   {% for post in site.posts %}
-    <li>
-		<a href="{{ post.url }}" title = "&nbsp{{ post.title }}">
-			<img src = "{{ post.post_image }}">
-		</a>
-    </li>
+	{% if customer.has_account == true %}
+		<li>
+			<a href="{{ post.url }}" title = "{{ post.title }}">
+				<img src = "{{ post.post_image }}">
+			</a>
+		{% assign startrow = false %}
+	{% else %}
+			<a href="{{ post.url }}" title = "{{ post.title }}">
+				<img src = "{{ post.post_image }}">
+			</a>
+		</li>
+		{% assign startrow = true %}
+	{% endif %}
   {% endfor %}
+	{% if customer.has_account == false %}
+		</li>
+	{% endif %}
 </ul>
