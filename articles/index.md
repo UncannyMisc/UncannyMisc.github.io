@@ -46,9 +46,11 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
 				<a href="{{ post.url }}" title = "{{ post.title }}">
 					<img style = "width: 70%;object-fit: cover; height: 120px; float:left;" src = "{{ post.post_image }}">
 				</a>
-				<p style = "width: -webkit-fill-available; text-align: center; line-height: normal;">
-					{{ post.summary }}
-				</p>
+				<div style = "width: -webkit-fill-available;">
+					<p style = "text-align: center; line-height: normal;">
+						{{ post.summary }}
+					</p>
+				</div>
 			</div>
 			{% assign startrow = false %}
 		{% else %}
@@ -56,9 +58,11 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
 				<a href="{{ post.url }}" title = "{{ post.title }}">
 					<img style = "width: 70%;object-fit: cover; height: 120px; float:right;" src = "{{ post.post_image }}">
 				</a>
-				<p style = "width: -webkit-fill-available; text-align: center; line-height: normal;">
-					{{ post.summary }}
-				</p>
+				<div style = "width: -webkit-fill-available;" >
+					<p style = "text-align: center; line-height: normal;">
+						{{ post.summary }}
+					</p>
+				</div>
 			</div>
 			{% assign startrow = true %}
 		{% endif %}
