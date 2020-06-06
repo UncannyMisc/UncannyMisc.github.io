@@ -6,7 +6,7 @@ summary: this is the first post! this summary should be brief
 ---
 ### Articles
 
-This page will index article pages I post.
+This page will be a post.
 
 ### Markdown
 
