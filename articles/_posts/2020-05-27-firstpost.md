@@ -8,9 +8,9 @@ summary: this is the first post! this summary should be brief
 
 This page will be a post.
 
-### Markdown
+### Part 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+a piece of code or something
 
 ```markdown
 Syntax highlighted code block
