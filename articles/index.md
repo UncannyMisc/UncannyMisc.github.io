@@ -12,7 +12,7 @@ This page will index article pages I post.
 		{% if startrow == true%}
 			<div style = "width: 100%; float:left;">
 				<a href="{{ post.url }}" title = "{{ post.title }}">
-					<img style = "width: 70%;object-fit: cover; height: 120px; float:left;" src = "{{ post.post_image }}">
+					<div style = "float:left; background-image:url({{ post.post_image }});"></div>
 				</a>
 				<div style = "width: -webkit-fill-available;">
 					<p style = "text-align: center; line-height: normal;">
@@ -24,7 +24,7 @@ This page will index article pages I post.
 		{% else %}
 			<div style = "width: 100%; float:right;" >
 				<a href="{{ post.url }}" title = "{{ post.title }}">
-					<img style = "width: 70%;object-fit: cover; height: 120px; float:right;" src = "{{ post.post_image }}">
+					<div style = "float:right; background-image:url({{ post.post_image }});"></div>
 				</a>
 				<div style = "width: -webkit-fill-available;" >
 					<p style = "text-align: center; line-height: normal;">
