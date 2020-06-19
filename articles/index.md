@@ -5,10 +5,10 @@ is_main: True
 
 This page will index article pages I post.
 
-<div class = "grid";>
+<div class="grid">
   {% assign startrow = true %}
   {% for post in site.posts %}
-    <div class = "grid-item";>
+    <div class="grid-item">
 		{% if startrow == true%}
 			<div style = "width: 100%; float:left;">
 				<a href="{{ post.url }}" title = "{{ post.title }}">
