@@ -12,7 +12,7 @@ This page will index article pages I post.
 		{% if startrow == true%}
 			<div style = "width: 100%; float:left;">
 				<a href="{{ post.url }}" title = "{{ post.title }}">
-					<div style = "float:left; background-image:url({{ post.post_image }});"></div>
+					<div style = "float:left; background-image:url({{ post.post_image }});">{{ post.title }}</div>
 				</a>
 				<div style = "width: -webkit-fill-available;">
 					<p style = "text-align: center; line-height: normal;">
@@ -24,13 +24,13 @@ This page will index article pages I post.
 		{% else %}
 			<div style = "width: 100%; float:right;" >
 				<a href="{{ post.url }}" title = "{{ post.title }}">
-					<div style = "float:right; background-image:url({{ post.post_image }});"></div>
-				</a>
+					<div style = "float:right; background-image:url({{ post.post_image }});">{{ post.title }}</div>
 				<div style = "width: -webkit-fill-available;" >
-					<p style = "text-align: center; line-height: normal;">
+					<div style = "text-align: center; line-height: normal;">
 						{{ post.summary }}
-					</p>
+					</div>
 				</div>
+				</a>
 			</div>
 			{% assign startrow = true %}
 		{% endif %}
