@@ -25,12 +25,12 @@ This page will index Tutorials I post.
 			<div style = "width: 100%; float:right;" >
 				<a href="{{ post.url }}" title = "{{ post.title }}">
 					<div style = "float:right; background-image:url({{ post.post_image }});">{{ post.title }}</div>
-				<div style = "width: -webkit-fill-available;" >
-					<div style = "text-align: center; line-height: normal;">
-						{{ post.summary }}
-					</div>
-				</div>
 				</a>
+				<div style = "width: -webkit-fill-available;" >
+					<p style = "text-align: center; line-height: normal;">
+						{{ post.summary }}
+					</p>
+				</div>
 			</div>
 			{% assign startrow = true %}
 		{% endif %}
