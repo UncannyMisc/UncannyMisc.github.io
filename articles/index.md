@@ -7,7 +7,7 @@ This page will index article pages I post.
 
 <div class="grid">
   {% assign startrow = true %}
-  {% for post in site.posts %}
+  {% for post in site.categories["articles"][1] %}
     <div class="grid-item">
 		{% if startrow == true%}
 			<div style = "width: 100%; float:left;">
