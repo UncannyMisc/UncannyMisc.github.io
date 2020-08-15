@@ -7,7 +7,7 @@ My name is Joshua Schneiders, , this site will serve as my Portfolio and place f
 
 <table>
 <tr>
-<th>
+<p>
 ### How do I spend my time?
 
 Most of my time is invested in learning and understanding things that, in general, fit into a combination topic of games/programming/physics/maths/3d modelling.
@@ -18,9 +18,9 @@ I then put that understanding to use in personal projects, tools and libraries f
 Back in 2019 I was hired as an programmer for [Good Times](https://web.archive.org/web/20191024001423/http://www.genesisowusu.com/), a game-as-music video project that was nearing its end of project deadline and had not had any programming work (planning or implimentation) done on it.
 My Involvement in the project helped to reset expectations for what was possible in the time given, set up project documentation for what the game actually involved and impliment functioning mechanics relative to those specifications.
 
-</th>
+</p>
 
-<th>
+<p>
 ### What can I do?
 
 ## Programming languages I Understand
@@ -40,7 +40,7 @@ My Involvement in the project helped to reset expectations for what was possible
 - Unity
 - Unreal
 
-</th>
+</p>
 </tr>
 
 </table>
