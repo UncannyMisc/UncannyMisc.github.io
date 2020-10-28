@@ -5,15 +5,9 @@ is_main: True
 
 My name is Joshua Schneiders, , this site will serve as my Portfolio and place for my Articles/Post-mortems until I can put some time into creating Publisher pages and zip them for a self hosted site as Google sites classic will not remain active at some point in the future.
 
-<table>
+<table><tr><p style="float: left; width: 50%;">
 
-<tr>
-
-<p style="float: left; width: 50%;">
-
-
-
-*### How do I spend my time?
+### How do I spend my time?
 
 Most of my time is invested in learning and understanding things that, in general, fit into a combination topic of games/programming/physics/maths/3d modelling.
 I then put that understanding to use in personal projects, tools and libraries for my own use.
@@ -25,11 +19,9 @@ My Involvement in the project helped to reset expectations for what was possible
 
 
 
-</p>
+</p><p style="float: left; width: 50%;">
 
-<p style="float: left; width: 50%;">
-
-*### What can I do?
+### What can I do?
 
 ## Programming languages I Understand
 - c++
@@ -46,10 +38,6 @@ My Involvement in the project helped to reset expectations for what was possible
 
 ## Game Engines I've worked with
 - Unity
-- Unreal*
+- Unreal
 
-</p>
-
-</tr>
-
-</table>
+</p></tr></table>
