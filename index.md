@@ -32,21 +32,27 @@ My Involvement in the project helped to reset expectations for what was possible
 <h3>What can I do?</h3>
 
 <h4>Programming languages I Understand</h4>
-<p>- c++</p>
-<p>- c#</p>
-<p>- python</p>
-<p>- javascript</p>
-<p>- CSS</p>
-<p>- HTML</p>
+<p>
+<div>- c++</div>
+<div>- c#</div>
+<div>- python</div>
+<div>- javascript</div>
+<div>- CSS</div>
+<div>- HTML</div>
+</p>
 
 <h4>Programming languages I'm Exploring</h4>
-<p>- x86 assembly</p>
-<p>- Lisp</p>
-<p>- Prolog</p>
+<p>
+<div>- x86 assembly</div>
+<div>- Lisp</div>
+<div>- Prolog</div>
+</p>
 
 <h4>Game Engines I've worked with</h4>
-<p>- Unity</p>
-<p>- Unreal</p>
+<p>
+<div>- Unity</div>
+<div>- Unreal</div>
+</p>
 
 
 </div>
