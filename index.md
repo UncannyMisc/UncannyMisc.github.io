@@ -19,6 +19,8 @@ I then put that understanding to use in personal projects, tools and libraries f
 
 <p>
 Back in 2019 I was hired as an programmer for [Good Times](https://web.archive.org/web/20191024001423/http://www.genesisowusu.com/), a game-as-music video project that was nearing its end of project deadline and had not had any programming work (planning or implimentation) done on it.
+</p>
+<p>
 My Involvement in the project helped to reset expectations for what was possible in the time given, set up project documentation for what the game actually involved and impliment functioning mechanics relative to those specifications.
 </p>
 
@@ -29,22 +31,22 @@ My Involvement in the project helped to reset expectations for what was possible
 
 <h3>What can I do?</h3>
 
-## Programming languages I Understand
-- c++
-- c#
-- python
-- javascript
-- CSS
-- HTML
+<h4>Programming languages I Understand</h4>
+<p>- c++</p>
+<p>- c#</p>
+<p>- python</p>
+<p>- javascript</p>
+<p>- CSS</p>
+<p>- HTML</p>
 
-## Programming languages I'm Exploring
-- x86 assembly
-- Lisp
-- Prolog
+<h4>Programming languages I'm Exploring</h4>
+<p>- x86 assembly</p>
+<p>- Lisp</p>
+<p>- Prolog</p>
 
-## Game Engines I've worked with
-- Unity
-- Unreal
+<h4>Game Engines I've worked with</h4>
+<p>- Unity</p>
+<p>- Unreal</p>
 
 
 </div>
