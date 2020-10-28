@@ -5,7 +5,11 @@ is_main: True
 
 My name is Joshua Schneiders, , this site will serve as my Portfolio and place for my Articles/Post-mortems until I can put some time into creating Publisher pages and zip them for a self hosted site as Google sites classic will not remain active at some point in the future.
 
-<table><tr><p style="float: left; width: 50%;">
+<table>
+
+<tr>
+
+<p style="float: left; width: 50%;">
 
 ### How do I spend my time?
 
@@ -18,7 +22,9 @@ Back in 2019 I was hired as an programmer for [Good Times](https://web.archive.o
 My Involvement in the project helped to reset expectations for what was possible in the time given, set up project documentation for what the game actually involved and impliment functioning mechanics relative to those specifications.*
 
 
-</p><p style="float: left; width: 50%;">
+</p>
+
+<p style="float: left; width: 50%;">
 
 
 ### What can I do?
@@ -41,4 +47,8 @@ My Involvement in the project helped to reset expectations for what was possible
 - Unreal
 
 
-</p></tr></table>
+</p>
+
+</tr>
+
+</table>
